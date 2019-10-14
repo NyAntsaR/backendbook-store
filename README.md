@@ -7,6 +7,7 @@ The application is a **book store** online where user can browse and buy books.
 ## ScreenShots
 
 ![Screenshot](image/img1.png)
+![Screenshot](image/img2.png)
 
 
 ## Technologies Used
