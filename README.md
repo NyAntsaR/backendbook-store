@@ -25,6 +25,9 @@ The application is a **book store** online where user can browse and buy books.
 - `HTML`
 - `JavaScript`
 
+### Authentication
+- `JSON web token`
+
 ### Deployed on 
 - [Digital Ocean](https://cloud.digitalocean.com/projects/b68048f4-938b-4274-a0be-6ff3dc8c8c67/resources?i=b12cb7)
 
