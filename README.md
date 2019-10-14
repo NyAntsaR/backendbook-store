@@ -31,7 +31,7 @@
 
 ## Link
 
-Link of the app [here](https://tirelire-sei.herokuapp.com/users)
+Link of the app [here](http://138.197.209.39/)
 
 ## Future implementations
 
